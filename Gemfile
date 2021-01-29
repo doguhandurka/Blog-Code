@@ -45,7 +45,6 @@ group :development do
   # Can be configured to work on production as well see: https://github.com/MiniProfiler/rack-mini-profiler/blob/master/README.md
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'guard', '~> 2.16', '>= 2.16.2'
-
 end
 
 group :test do
